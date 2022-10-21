@@ -29,3 +29,7 @@ https://zhuanlan.zhihu.com/p/106053023
 Quantum Information proceeding
 
 https://www.springer.com/journal/11128
+
+IEEE Transactions on Quantum Engineering(open-access paper)
+
+https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=9669178&punumber=8924785
