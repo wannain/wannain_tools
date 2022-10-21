@@ -59,3 +59,13 @@ ursuing a PhD allows you to explore uncharted areas of this rapidly growing fiel
 
 
 https://careerkarma.com/blog/phd-in-quantum-computing/
+
+Awesome quantum computing in Github
+
+https://github.com/desireevl/awesome-quantum-computing#learning
+
+
+
+**How to use Quirk**
+
+https://github.com/Strilanc/Quirk/wiki/How-to-use-Quirk

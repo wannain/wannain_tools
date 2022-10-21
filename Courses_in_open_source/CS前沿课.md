@@ -68,6 +68,28 @@ https://stanford-cs329t.github.io/syllabus.html
 
 
 
+**CS221: Artificial Intelligence: Principles and Techniques**
+
+https://stanford-cs221.github.io/spring2020/#schedule
+
+
+
+#### Berkley
+
+**C88C**
+
+https://c88c.org/fa22/
+
+**CS267 Applications of Parallel Computers**
+
+https://sites.google.com/lbl.gov/cs267-spr2021
+
+**CS 170 Efficient Algorithms and Intractable Problems**
+
+https://cs170.org/
+
+
+
 #### Others
 
 **Github Computer Science courses with video lectures**
